@@ -1,0 +1,101 @@
+body{
+	background-image: url("mage1.png");
+}
+
+
+a{
+	
+	color: red;
+}
+nav a{
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: bold;
+}
+div{
+	background-image: url("mage2.png");
+	border-style: double;
+	
+	margin: auto;
+	
+}
+#premierdiv{
+	background-image: url("mage2.png");
+	margin: auto;
+	border-style: solid;
+}
+nav ul li{
+	display: inline;
+	padding: 30px;
+}
+nav{
+	width: 905px;
+	height: 50px;
+	margin: auto;
+}
+
+
+
+section img{
+
+	float: left;
+	padding: 10px;
+	
+
+border-style: inherit;
+}
+#sidebar{
+	float: right;
+	margin: auto;
+
+}
+h2{
+	color: red;
+	text-decoration: underline;
+}
+h1{
+	
+	font-size: 50px;
+	padding-left: 195px;
+	color: gray;
+
+}
+#content{
+	width: 640px;
+	margin: auto;
+	float: left;
+
+}
+#content div{
+	padding: 10px;
+	margin: 20px;
+}
+#main{
+	width: 940px;
+	height: auto;
+	margin: auto;
+}
+footer{
+	width: 905px;
+	margin: auto;
+	clear: both;
+}
+.do{
+	width: 230px;
+	padding: 10px;
+	margin: 20px;
+
+
+}
+.segment {
+	display:inline-block; 
+	padding-right: 100px;
+}
+footer h4{
+	font-weight: bold;
+	font-size: 20px;
+}
+footer ul li{
+	padding-left: 20px;
+	padding-bottom: 5px;
+}
